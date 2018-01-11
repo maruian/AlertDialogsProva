@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlertDialogsProva</string>
+    <string name="titulo">Titol</string>
+    <string name="mensaje">Aquest es un missatge</string>
+    <string name="botonAceptar">Aceptar</string>
+    <string name="botonCancelar">Cancelar</string>
+</resources>
